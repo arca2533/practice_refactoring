@@ -1,5 +1,8 @@
 # Practice Refactoring
-## Rule
+## Mission
+Refactoring to readable code.(html, css, js)
+
+## What's Readable code?
 - Less code
 - Less indent
 - Unified rule
